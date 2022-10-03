@@ -1,0 +1,65 @@
+.frame {
+   height: 1.5rem;
+}
+.menu-list {
+   background-image: url('../img/Untitled.png');
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 80vh;
+   width: 100%;
+   margin-top: 5px;
+}
+.menu-link {
+   list-style-type: none;
+   line-height: 3;
+}
+.vector-menu {
+   height: 10px;
+}
+.slider-link {
+   margin-bottom: 15px;
+   font-size: small;
+}
+.wrapper-link {
+}
+.img-slider {
+   max-width: 100%;
+}
+.carousel-control-prev-icon {
+   position: absolute;
+   bottom: 0px;
+   left: 40%;
+   
+}
+
+.carousel-control-next-icon {
+   position: absolute;
+   bottom: 0px;
+   right: 40%;
+}
+.contrl-carusel {
+   width: 200px;
+}
+.carousel-control-prev-icon {
+   margin-left: 350px;
+   border: 1px solid black;
+   border-radius: 50%;
+}
+.carousel-control-next-icon {
+   margin-right: 350px;
+   border: 1px solid black;
+   border-radius: 50%;
+}
+.order-button {
+   margin: auto;
+   margin-top: 30px;
+   width: 110px;
+}
+.wrapper-link {
+   height: 100%;
+}
+.slider {
+   background-image: url(../img/Vector\ 1.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
