@@ -45,3 +45,6 @@
 .icons .icon {
     max-height: 30px;
 }
+.menu-list {
+    z-index: 1;
+}
